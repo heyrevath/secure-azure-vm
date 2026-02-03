@@ -1,5 +1,8 @@
 # 🔐 Secure Azure Ubuntu Virtual Machine Deployment
 
+<img width="700" height="768" alt="nhrdM7MAcaa46gbK-v18c-modified" src="https://github.com/user-attachments/assets/e0257c75-3f3f-4109-98d3-14594983fc3c" />
+
+
 ## 📌 Project Overview
 This project demonstrates the secure deployment and configuration of an **Ubuntu Linux Virtual Machine in Microsoft Azure**.  
 It focuses on **secure network access, SSH-based remote connectivity, and basic cloud security best practices**, which are essential skills for **Cloud Support Engineer** and **Cloud Security Engineer** roles.
