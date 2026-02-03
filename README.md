@@ -34,7 +34,6 @@ The architecture consists of:
 - A Network Security Group controlling inbound traffic  
 - SSH access enabled while all unnecessary ports remain blocked  
 
-![Architecture Diagram](screenshots/architecture-diagram.png)
 
 ---
 
