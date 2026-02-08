@@ -4,7 +4,7 @@
 
 
 
-# 🔐 Secure Azure Ubuntu Virtual Machine Deployment
+# 🔐 Secure Azure Ubuntu Virtual Machine Deployment.
 
 <img width="700" height="768" alt="nhrdM7MAcaa46gbK-v18c-modified" src="https://github.com/user-attachments/assets/e0257c75-3f3f-4109-98d3-14594983fc3c" />
 
